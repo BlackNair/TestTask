@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/TestTaskApp/.vs/TestTaskApp
+/TestTaskApp/TestTaskApp/obj
