@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Operations Version="1.0" xmlns="http://schemas.microsoft.com/sqlserver/dac/Serialization/2012/02">
+  <Operation Name="Rename Refactor" Key="2a5e8546-4bec-4f5b-b35b-5116995a0fa1" ChangeDateTime="03/19/2024 18:51:05">
+    <Property Name="ElementName" Value="[usr].[UserTable].[Phonde]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[usr].[UserTable]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="Phone" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="3fe96e3d-64ef-4d97-b5bf-17d7004567a0" ChangeDateTime="03/20/2024 06:58:55">
+    <Property Name="ElementName" Value="[dbo].[tErrorLog].[Err]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[tErrorLog]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ErrNumber" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="4b90b798-dea7-40d9-9caa-30fa8ac848bf" ChangeDateTime="03/20/2024 06:59:34">
+    <Property Name="ElementName" Value="[dbo].[tErrorLog].[Err]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[tErrorLog]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="ErrProc" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="4d187bda-fdb5-4e94-a268-d64ada99dbbd" ChangeDateTime="03/20/2024 07:17:29">
+    <Property Name="ElementName" Value="[usr].[tUserTable].[LastName]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[usr].[tUserTable]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="SecondName" />
+  </Operation>
+</Operations>
