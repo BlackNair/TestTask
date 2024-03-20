@@ -5,3 +5,7 @@
 /.vs
 /TestTaskApp/.vs/TestTaskApp
 /TestTaskApp/TestTaskApp/obj
+/TestTaskApp/.vs/ProjectEvaluation
+/TestTaskApp/DatabaseOne/obj/Debug
+/TestTaskApp/TestTaskCore/obj
+/TestTaskApp/TestTaskModels/obj
