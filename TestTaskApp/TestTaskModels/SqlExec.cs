@@ -4,6 +4,6 @@
     {
         public static string GetUsersProc => "usr.prcGetUsers";
 
-        public static string InsertUsersProc => "";
+        public static string InsertUsersProc => "usr.prcInsertUsers";
     }
 }
