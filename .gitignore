@@ -3,3 +3,13 @@
 ################################################################################
 
 /.vs
+/TestTaskApp/.vs/TestTaskApp
+/TestTaskApp/TestTaskApp/obj
+/TestTaskApp/.vs/ProjectEvaluation
+/TestTaskApp/DatabaseOne/obj/Debug
+/TestTaskApp/TestTaskCore/obj
+/TestTaskApp/TestTaskModels/obj
+/TestTaskApp/DatabaseOne/bin/Debug
+/TestTaskApp/TestTaskApp/bin/Debug/net6.0
+/TestTaskApp/TestTaskCore/bin/Debug/net6.0
+/TestTaskApp/TestTaskModels/bin/Debug/net6.0

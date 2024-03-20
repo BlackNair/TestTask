@@ -1,0 +1,9 @@
+﻿CREATE TABLE usr.tUserTable
+(
+	Id INT IDENTITY(1,1) NOT NULL PRIMARY KEY, 
+    FirstName VARCHAR(128) NOT NULL, 
+    SecondName VARCHAR(256) NOT NULL, 
+    Surname VARCHAR(128) NULL, 
+    Phone VARCHAR(32) NULL, 
+    Birthday DATETIME2(0) NOT NULL
+)
