@@ -14,7 +14,7 @@ namespace TestTaskCore.Configs.Db
     public class DbWorker: IDbWorker
     {
 
-        private static string _connection = "Server=ServerOne;Initial Catalog=DatabaseOne;TrustedConnection=True";
+        private static string _connection = "Server=ServerOne;Initial Catalog=DatabaseOne;Trusted_Connection=True";
 
         public void SetConnect(DbEnum db, ServerEnum server)
         {
