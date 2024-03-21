@@ -13,3 +13,5 @@
 /TestTaskApp/TestTaskApp/bin/Debug/net6.0
 /TestTaskApp/TestTaskCore/bin/Debug/net6.0
 /TestTaskApp/TestTaskModels/bin/Debug/net6.0
+/TestTaskApp/DatabaseOne/DatabaseOne.dbmdl
+/TestTaskApp/DatabaseOne/DatabaseOne.jfm
